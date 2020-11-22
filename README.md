@@ -1,0 +1,2 @@
+# brAIniacs-CEE-Hacks-2020
+We implemented an open source computer vision system based on a TensorFlow convolutional artificial neural network model that is capable of recognizing patients, medical staff and various interactions inside the Intensive Care Unit (ICU) and waiting room. The developed system allows the detection of the number of present medical staff and eating, sitting or resting patients inside of the ICU. In the waiting room, it is able to differentiate between medical staff, patients in transition and waiting visitors.
