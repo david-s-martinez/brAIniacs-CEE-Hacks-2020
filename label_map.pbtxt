@@ -1,0 +1,26 @@
+item {
+    id: 1
+    name: 'food'
+}
+
+item {
+    id: 2
+    name: 'patientSitting'
+}
+
+item {
+    id: 3
+    name: 'medStaff'
+}
+
+
+item {
+    id: 4
+    name: 'patientEating'
+}
+
+item {
+    id: 5
+    name: 'patientResting'
+}
+
